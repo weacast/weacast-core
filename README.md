@@ -1,3 +1,5 @@
+> **Important:** this module is now deprecated, please use the corresponding package in the [weacast monorepo](https://github.com/weacast/weacast).
+
 # weacast-core
 
 [![Build Status](https://app.travis-ci.com/weacast/weacast-core.svg?branch=master)](https://app.travis-ci.com/weacast/weacast-core)
